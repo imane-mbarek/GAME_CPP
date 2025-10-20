@@ -19,6 +19,18 @@ Run through a mysterious desert while an **eclipse unleashes monsters**! Jump ov
 
 ---
 
+## ⌨️ Controls
+
+
+| Key                    | Action                       |
+| ---------------------- | ---------------------------- |
+| **Space**              | Jump                         |
+| **R**                  | Restart game after Game Over |
+| **Esc / Close Window** | Exit game                    |
+
+
+---
+
 ## 💻 Installation & Compilation
 Make sure SFML is installed on your system. Compile using `g++`:
 
@@ -32,13 +44,5 @@ g++ main.cpp Animation.cpp Layer.cpp Obstacle.cpp -o EscapeTheEclipse \
 
 ---
 
-## ⌨️ Controls
-
-
-| Key                    | Action                       |
-| ---------------------- | ---------------------------- |
-| **Space**              | Jump                         |
-| **R**                  | Restart game after Game Over |
-| **Esc / Close Window** | Exit game                    |
 
 
