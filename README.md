@@ -17,7 +17,9 @@ Run through a mysterious desert while an **eclipse unleashes monsters**! Jump ov
 - **Restartable Gameplay**: Press **R** to restart after death  
 
 
+
 ---
+
 
 ## ⌨️ Controls
 
@@ -29,7 +31,25 @@ Run through a mysterious desert while an **eclipse unleashes monsters**! Jump ov
 | **Esc / Close Window** | Exit game                    |
 
 
+
 ---
+
+
+## ⚙️ How it Works
+
+jump(): Implements a parabolic jump using a*t^2 + b*t + c.
+
+Animation: Manages the player’s sprite frames.
+
+Layer: Handles parallax scrolling backgrounds to create depth.
+
+Obstacle: Generates obstacles randomly and checks for collisions.
+
+Game Over: Displays a message and waits for player restart.
+
+
+---
+
 
 ## 💻 Installation & Compilation
 Make sure SFML is installed on your system. Compile using `g++`:
@@ -45,4 +65,4 @@ g++ main.cpp Animation.cpp Layer.cpp Obstacle.cpp -o EscapeTheEclipse \
 ---
 
 
-
+Created with ❤️ by Imane AIT MBAREK
