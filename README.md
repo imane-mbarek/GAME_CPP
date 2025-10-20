@@ -27,7 +27,12 @@ git clone https://github.com/imane-mbarek/GAME_CPP.git
 cd GAME_CPP/src
 g++ main.cpp Animation.cpp Layer.cpp Obstacle.cpp -o EscapeTheEclipse \
 -lsfml-graphics -lsfml-window -lsfml-system
-./EscapeTheEclipse
+./EscapeTheEclipse```
+
+
+---
+
+## ⌨️ Controls
 
 
 | Key                    | Action                       |
