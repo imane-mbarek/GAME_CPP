@@ -1,8 +1,8 @@
-# 🌑 Escape the Eclipse
+# 🌑 Legend of Nyra
 
 ![SFML](https://img.shields.io/badge/SFML-2.5.1-blue)  
 
-**Escape the Eclipse** is a 2D action-adventure game in C++ powered by **SFML**.  
+**Legend of Nyra** is a 2D action-adventure game in C++ powered by **SFML**.  
 Run through a mysterious desert while an **eclipse unleashes monsters**! Jump over obstacles, survive, and test your reflexes in this endless challenge.  
 
 ![Gameplay Preview](resources/images/gameplay_placeholder.gif)  
